@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="SigiriyaTwentyone" size="50.000000 31.161972" />
+    <ImageTarget name="SigiriyaTwentyfour" size="50.000000 61.881187" />
+    <ImageTarget name="SigiriyaTwentythree" size="50.000000 50.000000" />
+    <ImageTarget name="SigiriyaTwentytwo" size="50.000000 48.034935" />
+    <ImageTarget name="SigiriyaTwenty" size="50.000000 32.142857" />
+    <ImageTarget name="SigiriyaNineteen" size="50.000000 50.223213" />
+    <ImageTarget name="SigiriyaEighteen" size="50.000000 26.375404" />
+    <ImageTarget name="SigiriyaSeventeen" size="50.000000 33.272728" />
+    <ImageTarget name="SigiriyaSixteen" size="50.000000 43.360996" />
+    <ImageTarget name="SigiriyaFourteen" size="50.000000 37.460316" />
+    <ImageTarget name="SigiriyaFifteen" size="50.000000 33.333332" />
+    <ImageTarget name="SigiriyaThirteen" size="50.000000 32.142857" />
+    <ImageTarget name="SigiriyaTwelve" size="50.000000 33.154297" />
+    <ImageTarget name="SigiriyaTen" size="50.000000 75.000000" />
+    <ImageTarget name="SigiriyaNine" size="50.000000 45.000000" />
+    <ImageTarget name="SigiriyaEight" size="50.000000 37.750000" />
+    <ImageTarget name="SigiriyaSeven" size="50.000000 22.000000" />
+    <ImageTarget name="SigiriyaSix" size="50.000000 33.343750" />
+    <ImageTarget name="SigiriyaFive" size="50.000000 28.403526" />
+    <ImageTarget name="SigiriyaFour" size="50.000000 33.307293" />
+    <ImageTarget name="SigiriyaThree" size="50.000000 33.106960" />
+    <ImageTarget name="SigiriyaTwo" size="50.000000 29.597475" />
+    <ImageTarget name="SigiriyaOne" size="10.000000 6.661458" />
+    <ImageTarget name="pidurangala-target" size="50.000000 28.129999" />
+    <ImageTarget name="sigiriya-target" size="50.000000 28.129999" />
+  </Tracking>
+</QCARConfig>

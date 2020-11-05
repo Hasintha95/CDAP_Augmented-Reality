@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/HomeScreen.unity
+    guid: 38bbd76bb96cc344e9ab5c826afe1630
+  - enabled: 1
+    path: Assets/Scenes/MainnavHome.unity
+    guid: 3e3aeaee9df06204ca597588210f2d56
+  - enabled: 1
+    path: Assets/Scenes/ARFoundationScene.unity
+    guid: bc8e4c728462cf04fa4e57f159441cad
+  - enabled: 1
+    path: Assets/Scenes/showNearBy.unity
+    guid: 908f8b407a9f2d542adbef3c4c72d9db
+  - enabled: 1
+    path: Assets/Scenes/searchAround.unity
+    guid: d4201b2139c078a4fa89451130883e95
+  - enabled: 1
+    path: Assets/Scenes/scanTarget.unity
+    guid: 0cded36b2877b2f468783f417095ef59
+  - enabled: 1
+    path: Assets/Scenes/photoGallery.unity
+    guid: 0890a3045f01ff0419adf4224e8ea04a
+  - enabled: 1
+    path: Assets/Scenes/arlocationfinaltested.unity
+    guid: 4ae174d36bd03db4d8225c8a13ee71ca
+  - enabled: 1
+    path: Assets/Scenes/SimpleAR.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects:
+    com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: e3e4fa4380979de4a95ac2dc200fb3e5,
+      type: 2}
